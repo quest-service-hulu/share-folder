@@ -1,4 +1,4 @@
-branch=beni.13
-version=5.9.13
-build_number=5.9.13-20171213-0223
-cartridge=ApplicationServers-DotNET-5_9_13.car
+beni.13 
+5.9.13 
+5.9.13-20171213-0223 
+ApplicationServers-DotNET-5_9_13.car 
